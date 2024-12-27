@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350624604019",
+    "project_id": "studentportfolio-bb1cb",
+    "storage_bucket": "studentportfolio-bb1cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350624604019:android:fc3d398fc744b21650ef06",
+        "android_client_info": {
+          "package_name": "com.example.studentportfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmkcM2oYHLc2-JpEAo8cI573RrcMaR7bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
